@@ -87,14 +87,42 @@
 #about-usss-h2{
     color: #007bff;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 45px;
     text-align: center;
 }
 
 
+.card-text{
+    align-content: center;
+    text-align: center;
+    font-family:sans-serif;
+    font-size: 24px;
+    color: black;
+}
 
 
 
+/* the promo2 */
+#promo2{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.67)),url("../img/startup-desk.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: center;
+    padding: 10px 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+#promo2 h1{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-family: sans-serif;
+    font-size: 78px;
+}
 
 
 
@@ -125,4 +153,28 @@
     font-family: sans-serif;
     font-size: 30px;
 }
+    
+    
+    #promo2{
+    
+     margin-top: 10;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.67)),url("../img/startup-desk.jpg");
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #efefef !important;
+    text-align: center;
+    padding: 20px 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+    #promo2 h1{
+    margin-bottom: 5px;
+    margin-top: 5px;
+    font-family: sans-serif;
+    font-size: 45px;
+}
+
+
 }
