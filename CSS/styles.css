@@ -123,15 +123,58 @@
     font-family: sans-serif;
     font-size: 78px;
 }
+#promo2 p{
+    margin-bottom: 15px;
+    margin-top: 0;
+    font-family: arial;
+    font-size: 20px;
+}
 
 
+/* ----EDUCATION section---- */
+
+#about2{
+    margin-top: 30px;
+   
+}
+#but{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.about-content{
+    padding-top: 20px;
+    text-align: justify;
+    font-weight: 600;
+    color: grey;
+}
+#about-usss-h2{
+    color: #007bff;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+}
 
 
+.card-text{
+    align-content: center;
+    text-align: justify;
+    font-family: arial;
+    font-size: 14px;
+    color: black;
+    
+    
+}
+.about2 .card-img-top{
+    height: 200px;
+}
 
+.card{
+      transition: box-shadow .3s;
+}
 
-
-
-
+.card:hover
+{  box-shadow: 0 0 11px rgba(33,33,33,.4); }
 
 
 
@@ -175,6 +218,21 @@
     font-family: sans-serif;
     font-size: 45px;
 }
-
+    #promo2 p{
+    margin-bottom: 15px;
+    margin-top: 0;
+    font-family: arial;
+    font-size: 14px;
+}
+    #about{
+    margin-top: 50px;
+   
+}
+    #about-usss-h2{
+    color: #007bff;
+    font-weight: 700;
+    font-size: 30px;
+    text-align: center;
+}
 
 }
