@@ -178,6 +178,63 @@
 
 
 
+/*The Areas of Interest*/
+#services{
+    margin-top: 30;
+    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url("../img/startup-desk.jpg");
+    background-size:cover;
+    background-position: center;
+    color: #efefef !important;
+    background-attachment: fixed;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
+#services h1{
+    text-align: center;
+    padding-bottom: 1px;
+    font-size: 48px;
+    margin-bottom: 25px;
+}
+
+.icon{
+   
+    font-size: 40px;
+    margin: 20 auto;
+    padding: 17px;
+    height: 80px;
+    width: 80px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+
+#services p{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-size: 16px;
+    text-align: center justify;
+    color: white;
+}
+
+#services .col-md-3:hover{
+    background: #007bff;
+    cursor: pointer;
+    transition: 0.9s;
+}
+
+
+
+/*footer*/
+.footer {
+  background-color: #007bff;
+  margin: 20px auto;
+  padding: 20px 0px; }
+
+.foot-list ul a {
+    color: white;
+    font-size: 18px;
+    
+}
 
 
 
@@ -234,5 +291,24 @@
     font-size: 30px;
     text-align: center;
 }
-
+    
+    /*The Areas of Interest*/
+   
+    #services h1{
+        margin-top: 10px
+    text-align: center;
+    padding-bottom: 1px;
+    font-size: 35px;
+    margin-bottom: 30px;
+        }
+    
+     .icon{
+    font-size: 25px;
+    margin: 20 auto;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+    border-radius: 50%;
+}
 }
