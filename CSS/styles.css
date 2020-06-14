@@ -7,7 +7,7 @@
     margin: 0;
     padding: 2px;
     background-color: #e9eff4;
-    border-bottom: 1px solid black;
+    border-bottom: 0.8px solid purple;
 }
 .navbar-nav a{
     font-size: 16px;
@@ -239,6 +239,25 @@
 
 
 
+#Formz
+{
+ background-color: ghostwhite;
+}
+
+
+#about3{
+    margin-top: 0px;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -311,4 +330,8 @@
     border: 2px solid white;
     border-radius: 50%;
 }
+    
+    #acc{
+        font-size: 20px;
+    } 
 }
